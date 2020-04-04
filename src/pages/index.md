@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Be fit with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Be fit with a conscience
+subheading: Support sustainable dieting to reach your fitness goals while enjoying life
 mainpitch:
-  title: Why Kaldi
+  title: Why Fibea
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Fitbea is the community for everyone who believes that diet recipes
+    shouldn't just do good, it should taste good too. We make sure to give out
+    only the best and  accurate information out to our community
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Fitbea is the ultimate spot for fitness lovers who want to stay fit without
+  sacrificing taste.We take our fitness goals seriously and we’re glad to pass
+  that knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +44,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: "Sign up now for updates from us \U0001F4AA"
 main:
   heading: Great coffee with no compromises
   description: >
